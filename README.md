@@ -1,4 +1,5 @@
 
+![](https://komarev.com/ghpvc/?username=Marianalima31&color=blue&style=flat)
 
 ## Hello! Welcome, I'm Mariana <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/emojidex/112/waving-hand-sign_1f44b.png" width="30px"></h2>
 
