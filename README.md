@@ -5,7 +5,6 @@
 
 Back-end Devoloper, Book lovers.
 
-I currently work at Bradesco 
 
 I'm learning at the moment Vb.net, Csharp
 
